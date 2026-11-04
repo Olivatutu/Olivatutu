@@ -1,7 +1,7 @@
 # Hi there, I'm Alejandro Oliva 👋 / ¡Hola, soy Alejandro Oliva! 👋
 
-**Multiplatform & Web Developer (DAM / DAW) | AI & Big Data Student**
-**Desarrollador Multiplataforma y Web (DAM / DAW) | Estudiante de IA y Big Data**
+**Multiplatform & Web Developer (DAM / DAW) | AI & Big Data Master's Student**
+**Desarrollador Multiplataforma y Web (DAM / DAW) | Estudiante de Máster en IA y Big Data**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-alexolivarobledo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexolivarobledo@gmail.com)
@@ -38,7 +38,7 @@
 - 🎓 Titulado en **DAM** (Desarrollo de Aplicaciones Multiplataforma) y **DAW** (Desarrollo de Aplicaciones Web).
 - 🧠 Estudiando actualmente el **Máster en Inteligencia Artificial y Big Data** en la Cámara de Comercio de Madrid.
 - 💻 Especializado en desarrollo backend, procesamiento de datos, bases de datos NoSQL/SQL y modelos de machine learning.
-- 🐳 Trabando a diario con **Python, Docker, MongoDB** y arquitecturas de software modernas.
+- 🐳 Trabajando a diario con **Python, Docker, MongoDB** y arquitecturas de software modernas.
 
 ---
 
