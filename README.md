@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Graduated in **DAM** (Multiplatform App Development) and completing **DAW** (Web App Development).
+- 🎓 Graduated in **DAM** (Multiplatform App Development) and **DAW** (Web App Development).
 - 🧠 Currently studying a **Master's in AI & Big Data** at Cámara de Comercio de Madrid.
 - 💻 Specialized in backend development, data processing, NoSQL/SQL databases, and machine learning models.
 - 🐳 Working daily with **Python, Docker, MongoDB**, and modern software architectures.
@@ -35,7 +35,7 @@
 
 ### 🚀 Sobre Mí
 
-- 🎓 Titulado en **DAM** (Desarrollo de Aplicaciones Multiplataforma) y cursando **DAW** (Desarrollo de Aplicaciones Web).
+- 🎓 Titulado en **DAM** (Desarrollo de Aplicaciones Multiplataforma) y **DAW** (Desarrollo de Aplicaciones Web).
 - 🧠 Estudiando actualmente el **Máster en Inteligencia Artificial y Big Data** en la Cámara de Comercio de Madrid.
 - 💻 Especializado en desarrollo backend, procesamiento de datos, bases de datos NoSQL/SQL y modelos de machine learning.
 - 🐳 Trabando a diario con **Python, Docker, MongoDB** y arquitecturas de software modernas.
